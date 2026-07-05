@@ -53,9 +53,9 @@ export function Contact() {
                 Start a conversation
               </MagneticButton>
               <MagneticButton
-                href="/AkashSingh_Resume.pdf"
+                href="/AkashSingh_DotNet_2Year.pdf"
                 variant="ghost"
-                download="AkashSingh_Resume.pdf"
+                download="AkashSingh_DotNet_2Year.pdf"
                 ariaLabel="Download Akash Kumar Singh resume (PDF)"
               >
                 ↓ Download Resume
